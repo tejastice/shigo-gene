@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5002615D9d87fd8B9195a7ca8e227a4C280B4731",
+  "SCAN_LINK": "https://goerli.etherscan.io/token/0x5002615D9d87fd8B9195a7ca8e227a4C280B4731",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Shigo Gene",
+  "SYMBOL": "SGG",
+  "MAX_SUPPLY": 700,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tereqn",
+  "SHOW_BACKGROUND": true
+}
